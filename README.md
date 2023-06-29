@@ -1,2 +1,2 @@
 # models
-A selection of models etc I have done
+I have collected a selection of models etc I have done.
